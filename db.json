@@ -1,0 +1,161 @@
+{
+  "books": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzhE3unGxiwnz5GV4EKdeNomsFy63v6g3zyhYuGpNIa_Ks6GPvaRGk2E&s=10",
+      "rating": 5,
+      "status": "Completed",
+      "description": "",
+      "id": 1
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "\tRobert Kiyosaki",
+      "genre": "Self Help",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEXy1shrOEl8euYpj91SNg52SLxBcdur7x4gmIdPd2mIgS8jkG1-oHrcp&s=10",
+      "rating": 4.5,
+      "status": "Currently Reading",
+      "description": "",
+      "id": 2
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "coverImage": "https://m.media-amazon.com/images/I/617lxveUjYL.jpg",
+      "rating": 4,
+      "status": "Want to Read",
+      "description": "The story follows Santiago, a young shepherd who travels from Spain to Egypt in search of hidden treasure. Along the journey, he discovers the importance of following dreams, listening to his heart, and finding his true purpose.",
+      "id": 3
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Self Help",
+      "coverImage": "https://m.media-amazon.com/images/I/71XEsXS5RlL._AC_UF1000,1000_QL80_.jpg",
+      "rating": 3.5,
+      "status": "Completed",
+      "description": "This book explores how human behavior, emotions, and personal experiences influence financial decisions. It teaches readers about saving, investing, wealth creation, patience, and making better decisions with money",
+      "id": 4
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "coverImage": "https://m.media-amazon.com/images/I/61mvKTMbbxL._AC_UF1000,1000_QL80_.jpg",
+      "rating": 3,
+      "status": "Want to Read",
+      "description": "The story follows Harry Potter, an orphaned boy who discovers that he is a wizard. He enters Hogwarts School of Witchcraft and Wizardry, makes new friends, learns magic, and uncovers a mysterious secret about his past.",
+      "id": 5
+    }
+  ],
+  "activities": [
+    {
+      "date": "2026-11-12",
+      "bookTitle": "The Alchemist",
+      "pagesRead": 789,
+      "notes": "good",
+      "id": 1
+    },
+    {
+      "date": "2026-11-13",
+      "bookTitle": "The Alchemist",
+      "pagesRead": 456,
+      "notes": "",
+      "id": 2
+    },
+    {
+      "date": "2026-11-06",
+      "bookTitle": "The Alchemist",
+      "pagesRead": 456,
+      "notes": "",
+      "id": 3
+    },
+    {
+      "date": "2026-10-19",
+      "bookTitle": "The Alchemist",
+      "pagesRead": 200,
+      "notes": "",
+      "id": 4
+    }
+  ],
+  "goals": [
+    {
+      "monthlyTarget": 3,
+      "dailyTarget": 560,
+      "id": 1
+    }
+  ],
+  "reviews": [
+    {
+      "bookId": 2,
+      "bookTitle": "Rich Dad Poor Dad",
+      "author": "\tRobert Kiyosaki",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEXy1shrOEl8euYpj91SNg52SLxBcdur7x4gmIdPd2mIgS8jkG1-oHrcp&s=10",
+      "reviewerName": "Ammu",
+      "rating": 4,
+      "reviewTitle": "A Life-Changing Guide to Financial Freedom",
+      "comment": "This book provides a different perspective on money, savings, and investments. It explains the importance of financial education and teaches readers how to build assets instead of depending only on a salary. A very useful book for anyone who wants to improve their financial knowledge.",
+      "date": "11/6/2026",
+      "id": 1
+    },
+    {
+      "bookId": 1,
+      "bookTitle": "Atomic Habits",
+      "author": "James Clear",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzhE3unGxiwnz5GV4EKdeNomsFy63v6g3zyhYuGpNIa_Ks6GPvaRGk2E&s=10",
+      "reviewerName": "Anu",
+      "rating": 4,
+      "reviewTitle": "Small Habits, Big Changes",
+      "comment": "Atomic Habits is an inspiring book that explains how small improvements can lead to significant changes in life. The author provides practical techniques for developing good habits and eliminating bad ones. It is easy to understand and highly useful for personal growth.",
+      "date": "11/6/2026",
+      "id": 2
+    },
+    {
+      "bookId": 4,
+      "bookTitle": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "coverImage": "https://m.media-amazon.com/images/I/71XEsXS5RlL._AC_UF1000,1000_QL80_.jpg",
+      "reviewerName": "Anjana",
+      "rating": 4.5,
+      "reviewTitle": "Understanding the Real Meaning of Wealth",
+      "comment": "This book offers valuable lessons about money, financial decisions, and human behavior. It explains that becoming wealthy is not just about earning more but also about managing money wisely. The real-life examples make financial concepts interesting and easy to understand.",
+      "date": "11/6/2026",
+      "id": 3
+    }
+  ],
+  "downloads": [
+    {
+      "reportName": "BookVerse Reading Report",
+      "fileName": "BookVerse-Reading-Report.pdf",
+      "generatedDate": "2026-11-05T20:18:23.600Z",
+      "totalBooks": 1,
+      "completedBooks": 1,
+      "totalReviews": 0,
+      "totalPages": 1901,
+      "id": 1
+    },
+    {
+      "reportName": "BookVerse Reading Report",
+      "fileName": "BookVerse-Reading-Report.pdf",
+      "generatedDate": "2026-11-05T20:22:51.625Z",
+      "totalBooks": 1,
+      "completedBooks": 1,
+      "totalReviews": 0,
+      "totalPages": 1901,
+      "id": 2
+    },
+    {
+      "reportName": "BookVerse Reading Report",
+      "fileName": "BookVerse-Reading-Report.pdf",
+      "generatedDate": "2026-11-05T20:26:36.367Z",
+      "totalBooks": 1,
+      "completedBooks": 1,
+      "totalReviews": 0,
+      "totalPages": 1901,
+      "id": 3
+    }
+  ]
+}
