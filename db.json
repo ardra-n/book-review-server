@@ -156,6 +156,30 @@
       "totalReviews": 0,
       "totalPages": 1901,
       "id": 3
+    },
+    {
+      "reportName": "BookVerse Reading Report",
+      "fileName": "BookVerse-Reading-Report.pdf",
+      "generatedDate": "2026-11-06T04:29:53.332Z",
+      "totalBooks": 5,
+      "completedBooks": 2,
+      "totalReviews": 3,
+      "totalPages": 1901,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "akshay",
+      "email": "akshay@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "ammu",
+      "email": "ammu@gmail.com",
+      "password": "123456",
+      "id": 2
     }
   ]
 }
